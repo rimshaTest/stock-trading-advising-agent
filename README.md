@@ -1,2 +1,2 @@
-# agentic-ai-medical-diagnosis-chatbot
-A chatbot utilizing langchain for medical diagnosis based on symptoms
+# stock-trading-advising-agent
+An agent utilizing langchain for assessing stock portfolio and advising on buying or selling any stock from a given group of stocks
